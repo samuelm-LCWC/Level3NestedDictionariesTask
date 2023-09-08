@@ -34,7 +34,3 @@ students = {
         "age": 900
     }
 }
-
-
-for x in students:
-    print(x["age"])
